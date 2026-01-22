@@ -1,4 +1,8 @@
-# Chess JavaFX Project
+Kielce University of Technology
+Object Oriented Programming - Chess JavaFX Project
+
+Enes Omer Gokce - ERASMUS
+Onur Dikmen - ERASMUS
 
 This is a Java 17 Maven project using OpenJFX 25. It implements a playable chess game (two players, local) with the following features:
 
@@ -20,7 +24,3 @@ Project structure:
 
 * src/main/java/com/example/chess: Java sources
 * pom.xml: Maven build file configured for OpenJFX 25
-
-Notes:
-
-* This is a compact educational implementation meant to be clear and readable.
