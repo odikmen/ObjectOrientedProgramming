@@ -1,7 +1,9 @@
-Kielce University of Technology
+Kielce University of Technology 
+
 Object Oriented Programming - Chess JavaFX Project
 
 Enes Omer Gokce - ERASMUS
+
 Onur Dikmen - ERASMUS
 
 This is a Java 17 Maven project using OpenJFX 25. It implements a playable chess game (two players, local) with the following features:
